@@ -3,7 +3,7 @@
 # 🌌 Hi, I'm Akiera 
 **3D Artist | Low Poly Enthusiast | Game Developer**
 
-<img src="my-space-art.png" alt="Akiera's 3D Space Art" width="100%" style="border-radius: 15px; border: 2px solid #7b2cbf; box-shadow: 0 4px 15px rgba(123, 44, 191, 0.5);" />
+<img src="header-space.png" alt="Akiera's 3D Space Art" width="100%" style="border-radius: 15px; border: 2px solid #7b2cbf; box-shadow: 0 4px 15px rgba(123, 44, 191, 0.5);" />
 
 <br>
 
