@@ -24,7 +24,6 @@ and it continues to be the heart of every world I build today.
 | 3D Scene Design | **Linux** Enthusiast | Purple Aesthetics |
 
 ---
-
 ### 📊 Galactic Activity
 <img src="https://github-readme-stats.vercel.app/api?username=Akiera-Grram&show_icons=true&theme=radical&bg_color=1a1b27&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&hide_border=true" width="48%" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiera-Grram&layout=compact&theme=radical&bg_color=1a1b27&title_color=9d4edd&text_color=c9d1d9&hide_border=true" width="45%" />
